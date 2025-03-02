@@ -572,3 +572,40 @@
 2025-03-02 17:42:13,915 INFO:  * Restarting with watchdog (windowsapi)
 2025-03-02 17:42:18,103 WARNING:  * Debugger is active!
 2025-03-02 17:42:18,106 INFO:  * Debugger PIN: 550-490-599
+2025-03-02 18:06:58,956 INFO:  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages\\pip\\_internal\\commands\\check.py', reloading
+2025-03-02 18:07:00,072 INFO:  * Restarting with watchdog (windowsapi)
+2025-03-02 18:07:04,289 WARNING:  * Debugger is active!
+2025-03-02 18:07:04,291 INFO:  * Debugger PIN: 550-490-599
+2025-03-02 18:13:29,304 INFO:  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages\\pip\\_internal\\commands\\show.py', reloading
+2025-03-02 18:13:30,498 INFO:  * Restarting with watchdog (windowsapi)
+2025-03-02 18:13:34,597 WARNING:  * Debugger is active!
+2025-03-02 18:13:34,599 INFO:  * Debugger PIN: 550-490-599
+2025-03-02 18:14:01,943 INFO:  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages\\pip\\_internal\\commands\\freeze.py', reloading
+2025-03-02 18:14:01,954 INFO:  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages\\pip\\_internal\\operations\\freeze.py', reloading
+2025-03-02 18:14:02,894 INFO:  * Restarting with watchdog (windowsapi)
+2025-03-02 18:14:07,114 WARNING:  * Debugger is active!
+2025-03-02 18:14:07,116 INFO:  * Debugger PIN: 550-490-599
+2025-03-02 18:16:44,678 INFO:  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\netrc.py', reloading
+2025-03-02 18:16:45,636 INFO:  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\cp437.py', reloading
+2025-03-02 18:16:46,226 INFO:  * Restarting with watchdog (windowsapi)
+2025-03-02 18:16:50,564 WARNING:  * Debugger is active!
+2025-03-02 18:16:50,566 INFO:  * Debugger PIN: 550-490-599
+2025-03-02 18:16:57,111 INFO:  * Detected change in 'C:\\Users\\hgqh3\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\__init__.py', reloading
+2025-03-02 18:16:57,114 INFO:  * Detected change in 'C:\\Users\\hgqh3\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\app.py', reloading
+2025-03-02 18:16:57,145 INFO:  * Detected change in 'C:\\Users\\hgqh3\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\scaffold.py', reloading
+2025-03-02 18:16:57,174 INFO:  * Detected change in 'C:\\Users\\hgqh3\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\templating.py', reloading
+2025-03-02 18:16:57,177 INFO:  * Detected change in 'C:\\Users\\hgqh3\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\jinja2\\__init__.py', reloading
+2025-03-02 18:16:57,178 INFO:  * Detected change in 'C:\\Users\\hgqh3\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\jinja2\\environment.py', reloading
+2025-03-02 18:16:57,207 INFO:  * Detected change in 'C:\\Users\\hgqh3\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\wrappers.py', reloading
+2025-03-02 18:16:57,209 INFO:  * Detected change in 'C:\\Users\\hgqh3\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+2025-03-02 18:16:57,209 INFO:  * Detected change in 'C:\\Users\\hgqh3\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+2025-03-02 18:16:57,216 INFO:  * Detected change in 'C:\\Users\\hgqh3\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\sansio\\request.py', reloading
+2025-03-02 18:16:57,221 INFO:  * Detected change in 'C:\\Users\\hgqh3\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\json\\__init__.py', reloading
+2025-03-02 18:16:57,222 INFO:  * Detected change in 'C:\\Users\\hgqh3\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2025-03-02 18:16:57,231 INFO:  * Detected change in 'C:\\Users\\hgqh3\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\werkzeug\\sansio\\response.py', reloading
+2025-03-02 18:16:57,293 INFO:  * Detected change in 'C:\\Users\\hgqh3\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\pycaret\\regression\\__init__.py', reloading
+2025-03-02 18:16:57,295 INFO:  * Detected change in 'C:\\Users\\hgqh3\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\pycaret\\regression\\functional.py', reloading
+2025-03-02 18:16:57,332 INFO:  * Detected change in 'C:\\Users\\hgqh3\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\pycaret\\regression\\oop.py', reloading
+2025-03-02 18:16:57,953 INFO:  * Restarting with watchdog (windowsapi)
+2025-03-02 18:17:02,299 WARNING:  * Debugger is active!
+2025-03-02 18:17:02,302 INFO:  * Debugger PIN: 550-490-599
