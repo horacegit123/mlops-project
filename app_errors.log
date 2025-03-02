@@ -300,3 +300,8 @@
 2025-03-02 14:53:10,067 INFO:  * Debugger PIN: 550-490-599
 2025-03-02 14:53:20,504 INFO: 127.0.0.1 - - [02/Mar/2025 14:53:20] "POST /predict HTTP/1.1" 200 -
 2025-03-02 15:16:43,984 INFO: 127.0.0.1 - - [02/Mar/2025 15:16:43] "POST /predict HTTP/1.1" 200 -
+2025-03-02 16:27:57,882 INFO:  * Detected change in 'c:\\Users\\hgqh3\\OneDrive\\Desktop\\mlops\\app.py', reloading
+2025-03-02 16:27:57,889 INFO:  * Detected change in 'c:\\Users\\hgqh3\\OneDrive\\Desktop\\mlops\\templates\\test.py', reloading
+2025-03-02 16:27:59,619 INFO:  * Restarting with watchdog (windowsapi)
+2025-03-02 16:28:03,971 WARNING:  * Debugger is active!
+2025-03-02 16:28:03,973 INFO:  * Debugger PIN: 550-490-599
